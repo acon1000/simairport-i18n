@@ -3,38 +3,38 @@
 	<Agents>
 		<CFO>
 			<name>CFO</name>
-			<description>Chief Financial Officer - Ermöglicht Ihnen, finanzbezogene Upgrades und Fähigkeiten wie Bankkredite und verbesserte Finanzberichterstattung zu untersuchen.</description>
+			<description>Chief Financial Officer (FinanzleiterIn) - Ermöglicht Ihnen, finanzbezogene Upgrades und Fähigkeiten wie Bankkredite und verbesserte Finanzberichterstattung zu untersuchen.</description>
 		</CFO>
 		<COO>
 			<name>COO</name>
-			<description>Chief Operations Officer - Ermöglicht die Suche nach betriebs- und logistikbezogenen Upgrades und Tools.</description>
+			<description>Chief Operations Officer (BetriebsleiterIn) - Ermöglicht die Suche nach betriebs- und logistikbezogenen Upgrades und Tools.</description>
 		</COO>
 		<CTO>
 			<name>CTO</name>
-			<description>Chief Technology Officer - Ermöglicht die Suche nach technologischen Verbesserungen und bietet Zugriff auf Objekte wie öffentliche Adresssysteme und andere verbesserte technologische Objekte.</description>
+			<description>Chief Technology Officer (LeiterIn Technologie) - Ermöglicht die Suche nach technologischen Verbesserungen und bietet Zugriff auf Objekte wie öffentliche Adresssysteme und andere verbesserte technologische Objekte.</description>
 		</CTO>
 		<FinanceVP>
 			<name>Finanz-VP</name>
-			<description>Vice President of Finance - Ermöglicht es dir, steuerliche Verbesserungen zu "recherchieren" und kann dazu beitragen, die Räder geschmiert zu halten.</description>
+			<description>Vice President of Finance (Stv. FinanzleiterIn) - Ermöglicht es dir, steuerliche Verbesserungen zu "recherchieren" und kann dazu beitragen, die Räder geschmiert zu halten.</description>
 		</FinanceVP>
 		<FlightAttendant>
-			<name>Steward/Stewardess</name>
+			<name>FlugbegleiterIn</name>
 			<description />
 		</FlightAttendant>
 		<FoodWorker>
-			<name>Lebensmittelmitarbeiter</name>
+			<name>LebensmittelmitarbeiterIn</name>
 			<description>Nimmt Bestellungen in der Einzelhandelszone auf und bereitet sie zu.</description>
 		</FoodWorker>
 		<Foreman>
-			<name>Vorarbeiter</name>
-			<description>Bau-Vorarbeiter - Ermöglicht Ihnen, baubezogene Upgrades und Fähigkeiten zu prüfen, z. B. sich kreuzende Landebahnen und mehr.</description>
+			<name>VorarbeiterIn</name>
+			<description>Bau-VorarbeiterIn - Ermöglicht Ihnen, baubezogene Upgrades und Fähigkeiten zu prüfen, z. B. sich kreuzende Landebahnen und mehr.</description>
 		</Foreman>
 		<Janitor>
-			<name>Hausmeister</name>
-			<description>Entsorgt Müll rund um den Flughafen, plant die Müllabfuhr, damit der Flughafen nicht geschlossen wird.</description>
+			<name>HausmeisterIn</name>
+			<description>Kümmert sich um die Reinigung und Entsorgung von Müll rund um den Flughafen und plant die Müllabfuhr, damit der Flughafen nicht geschlossen wird.</description>
 		</Janitor>
 		<Laborer>
-			<name>Arbeiter</name>
+			<name>ArbeiterIn</name>
 			<description />
 		</Laborer>
 		<Passenger>
@@ -42,27 +42,27 @@
 			<description />
 		</Passenger>
 		<Pilot>
-			<name>Pilot</name>
+			<name>PilotIn</name>
 			<description />
 		</Pilot>
 		<RampAgent>
-			<name>Flugzeugabfertiger</name>
+			<name>FlugzeugabfertigerIn</name>
 			<description>Flugzeug HÄNGT FEST? Flugzeugabfertiger zu Hilfe! Sie helfen, alle Flugzeuge auf dem Boden gegen eine kleine einmalige Gebühr "freizubekommen". Wenn ihre Arbeit erledigt ist, gehen sie wieder. Auch bekannt als "Golden Towbar Award".</description>
 		</RampAgent>
 		<Security>
-			<name>Sicherheit</name>
-			<description>Gibt Gepäck und Passagiere frei, während diese sich durch den Flughafen bewegen.</description>
+			<name>Sicherheitsdienst</name>
+			<description>Überprüfen Passagiere und Gepäck und sorgen für die Sicherheit im Flughafen.</description>
 		</Security>
 		<Staff>
 			<name>Personal</name>
-			<description>Besetzt Kundendienstpositionen, einschließlich Bedienpulte.</description>
+			<description>Übernehmen die Abfertigung von Passagieren an diversen Schaltern im Flughafen wie Beispielweise Ticketschalter oder die Ticketkontrolle beim Einstieg in das Flugzeug.</description>
 		</Staff>
 		<VendorWorker>
-			<name>Verkaufsmitarbeiter</name>
+			<name>VerkaufsmitarbeiterIn</name>
 			<description />
 		</VendorWorker>
 		<Workman>
-			<name>Bauarbeiter</name>
+			<name>BauarbeiterIn</name>
 			<description>Kümmert sich um alle baubezogenen Aufgaben.</description>
 		</Workman>
 		<BaggageCar>
@@ -535,7 +535,7 @@
 			<description />
 		</SushiKiosk>
 		<TicketingDesk>
-			<name>Ticket-Desk</name>
+			<name>Ticket-Schalter</name>
 			<description>Passagiere kommen hierher, um ihre Boarding-Pässe zu erhalten &amp; ihr Gepäck einzuchecken. Dein Personal hilft an diesen Tischen deinen Passagieren beim Checkin-Prozess.</description>
 		</TicketingDesk>
 		<TicketingKiosk>
@@ -578,7 +578,7 @@
 			<description>Sortiert und leitet das eingehende Gepäck stromabwärts zu anderen Endpunkten, einschließlich anderer Knotenpunkte. 4 Ports.</description>
 		</BaggageHub>
 		<BaggageHub-Specialty6-2>
-			<name>Gepäck-Knotenpunkt - Spezialität 6-2</name>
+			<name>Gepäck-Knotenpunkt - Spezial 6-2</name>
 			<description>Sortiert und leitet das eingehende Gepäck stromabwärts zu anderen Endpunkten, einschließlich anderer Knotenpunkte. 8 Ports.</description>
 		</BaggageHub-Specialty6-2>
 		<BaggageHubLarge>
