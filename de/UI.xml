@@ -661,8 +661,8 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <desc6>Keine aktuellen Transaktionen</desc6>
             <pTax>Vermögenssteuer</pTax>
             <iTax>Einkommenssteuer</iTax>
-            <bankruptWarning>until BANKRUPT</bankruptWarning>
-            <bankruptHelper>If your bank balance does not become POSITIVE within this time then you will be declared bankrupt and the game will end.</bankruptHelper>
+            <bankruptWarning>bis BANKROTT</bankruptWarning>
+            <bankruptHelper>Wenn deine Bilanz nicht POSITIV wird bis zu diesem Zeitpunkt, dann wirst du als Bankrott deklariert und das Spiel endet.</bankruptHelper>
         </bank>
         <airlines>
             <title>Fluglinien-Interesse</title>
@@ -833,7 +833,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <Pickup>Abholung</Pickup>
             <Leaving>Verlässt</Leaving>
             <TransferBags>Gepäcktransfer</TransferBags>
-            <Spawned>Spawned</Spawned>
+            <Spawned>Erscheint</Spawned>
             <ReturnToHome>Kehrt zum Sammelpunkt zurück</ReturnToHome>
             <MoveToZone>In Zone bewegen</MoveToZone>
             <MoveBoxToZone>Box in Zone bewegen</MoveBoxToZone>
@@ -1240,7 +1240,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <BusService>Omnibusdienst</BusService>
             <GarbageService>Abfalldienst</GarbageService>
             <RetailIncome>Einkommen durch Handel/Restaurants</RetailIncome>
-            <Fired>Gefeuert</Fired>
+            <Fired>Entlassen</Fired>
             <RetailInventory>Lebensmittellager</RetailInventory>
             <RunwayUsage>Start-/Landebahnnutzung</RunwayUsage>
             <TerminalUsage>Terminal-Nutzung</TerminalUsage>
@@ -1278,7 +1278,7 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <Fuel>Treibstoff</Fuel>
             <Taxes>Steuern</Taxes>
             <Maintenance>Wartung</Maintenance>
-            <Advertising>Advertising Fees</Advertising>
+            <Advertising>Werbung</Advertising>
         </category>
         <txs>{0} Transaktionen</txs>
     </money>
@@ -1601,8 +1601,8 @@ Dadurch wird der ausgewählte Spielstand dauerhaft von deinem Computer entfernt.
             <row0>Ermöglicht es, die Rollwege auf eine Fahrtrichtung zu beschränken, um so den Verkehr auf dem Vorfeld besser zu koordinieren.</row0>
         </OneWayTaxiways>
         <CreditReporting>
-            <name>Credit Reporting</name>
-            <row0>Allows access to detailed credit reports and provides pre-application interest rate estimates for loans.</row0>
+            <name>Finanzberichte</name>
+            <row0>Ermöglicht den Zugriff auf detaillierte Finanzberichte und zeigt die voraussichtlichen Ausgaben.</row0>
         </CreditReporting>
     </research>
     <land>
