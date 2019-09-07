@@ -869,16 +869,16 @@
             <description>Ermöglicht es Strassen auf eine andere Ebende zu wechseln.</description>
         </RoadRamp>
         <ConveyorTransition>
-            <name>Conveyor Transition</name>
+            <name>Förderband-Übergang</name>
             <description>Conveyor network object which allows a conveyor segment to transition between two floors.  Allows for strategic uses of space when designing baggage conveyor networks.</description>
         </ConveyorTransition>
         <AircraftGateSmallRemote>
-            <name>Aircraft Gate (S, Remote)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>Gate (S, Remote-Gate)</name>
+            <description>Ermöglicht Passagieren das Ein- und Aussteigen in/aus Flugzeugen. Dies muss mit einem Bus-Gate verknüpft werden.</description>
         </AircraftGateSmallRemote>
         <RemoteBusPickup>
-            <name>Remote Bus Pickup</name>
-            <description>Allows for buses to transfer passengers to and from a remote gate.</description>
+            <name>Bus Gate für Remote-Gate</name>
+            <description>Ermöglicht den Transfer der Passagiere vom Terminal zum entfernten Remote-Gate (Aussenstellplatz).</description>
         </RemoteBusPickup>
     </Objects>
     <Foods>
